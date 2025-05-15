@@ -1,4 +1,4 @@
-# 👋 Welcome to Ajaxify Comments
+# 👋 Welcome to Ajaxify Comments (no audio)
 
 > Spin up [a test site of the plugin](https://app.instawp.io/launch?t=ajaxify-comments&d=v2).
 
